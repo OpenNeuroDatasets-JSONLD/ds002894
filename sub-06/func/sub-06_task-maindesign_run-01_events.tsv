@@ -1154,10 +1154,9 @@ onset	duration	stim	trial_number	trial_type	trial_structure	trial_length	sequent
 750.6475	0.0	+	79	verb	phrase	1	7	nomatch	vite	-1	0	TIMEOUT	-1.0
 751.0475	0.2	mdbkqwz	79	verb	phrase	1	8	nomatch	vite	-1	0	TIMEOUT	-1.0
 751.2475000000001	0.0	+	79	verb	phrase	1	9	nomatch	vite	-1	0	TIMEOUT	-1.0
-751.6474000000001	0.2	tôt	79	verb	phrase	1	10	nomatch	vite	-1	0	TIMEOUT	-1.0
+751.6474000p00001	0.2	tôt	79	verb	phrase	1	10	nomatch	vite	-1	0	TIMEOUT	-1.0
 751.8474	0.0	+	79	verb	phrase	1	11	nomatch	vite	-1	0	TIMEOUT	-1.0
 752.2474000000001	0.0	+	79	verb	phrase	1	12	nomatch	vite	-1	0	TIMEOUT	-1.0
-754.2472	0.0	VITE	79	verb	phrase	1	13	nomatch	vite	-1	0	TIMEOUT	-1.0
 756.647	0.0	+	80	noun	list	1	1	nomatch	clavier	-1	1	p	0.6363
 757.2469	0.2	wsnkd	80	noun	list	1	2	nomatch	clavier	-1	1	p	0.6363
 757.4469	0.0	+	80	noun	list	1	3	nomatch	clavier	-1	1	p	0.6363
